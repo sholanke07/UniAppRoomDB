@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ClaimActivity">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/uniok"
+        android:layout_marginBottom="10dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:textSize="40dp"
+        android:layout_marginTop="150dp"
+        android:text="        Claim Form"/>
+
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="match_parent"
+        android:id="@+id/policyname"
+        android:layout_marginTop="220dp"
+        android:layout_height="wrap_content"
+        app:startIconDrawable="@drawable/name01"
+        style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+        >
+        <EditText
+            android:layout_width="match_parent"
+            android:textSize="20dp"
+            android:hint="Product"
+            android:text="Travelling Insurance Policy"
+            android:layout_marginTop="220dp"
+            android:textColor="#0000ff"
+            android:layout_marginBottom="10dp"
+            android:layout_height="wrap_content"/>
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="match_parent"
+        android:id="@+id/policyNo"
+        android:layout_marginTop="320dp"
+        android:layout_height="wrap_content"
+        app:startIconDrawable="@drawable/name01"
+        style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+        >
+        <EditText
+            android:layout_width="match_parent"
+            android:textSize="20dp"
+            android:hint="Policy Number"
+            android:layout_marginTop="320dp"
+            android:textColor="#0000ff"
+            android:layout_marginBottom="10dp"
+            android:layout_height="wrap_content"/>
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="match_parent"
+        android:id="@+id/email"
+        android:layout_marginTop="420dp"
+        android:layout_height="wrap_content"
+        app:startIconDrawable="@drawable/name01"
+        style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+        >
+        <EditText
+            android:layout_width="match_parent"
+            android:textSize="20dp"
+            android:hint="Email"
+            android:layout_marginTop="420dp"
+            android:textColor="#0000ff"
+            android:layout_marginBottom="10dp"
+            android:layout_height="wrap_content"/>
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="23dp"
+        android:layout_marginTop="500dp"
+        android:text="         Details Of Claim Incident"/>
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="match_parent"
+        android:id="@+id/occurrence"
+        android:layout_marginTop="570dp"
+        android:layout_height="wrap_content"
+        style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+        >
+        <EditText
+            android:layout_width="match_parent"
+            android:textSize="20dp"
+            android:layout_marginTop="570dp"
+            android:hint="Date of occurrence"
+            android:textColor="#0000ff"
+            android:layout_marginBottom="10dp"
+            android:layout_height="wrap_content"/>
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="match_parent"
+        android:id="@+id/details"
+        android:layout_marginTop="690dp"
+        android:layout_height="wrap_content"
+        style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+        >
+        <EditText
+            android:layout_width="match_parent"
+            android:textSize="20dp"
+            android:layout_marginTop="690dp"
+            android:hint="Details of claim incident"
+            android:textColor="#0000ff"
+            android:layout_marginBottom="10dp"
+            android:layout_height="wrap_content"/>
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="23dp"
+        android:layout_marginTop="800dp"
+        android:text="Attech claim supporting documents"/>
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="match_parent"
+        android:id="@+id/picture"
+        android:layout_marginTop="900dp"
+        android:orientation="horizontal"
+        android:layout_height="wrap_content"
+        style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+        >
+        <EditText
+            android:layout_width="match_parent"
+            android:textSize="15dp"
+            android:layout_marginTop="900dp"
+            android:textColor="#0000ff"
+            android:hint="Evidence or Picture of incident"
+            android:layout_marginBottom="10dp"
+            android:layout_height="wrap_content"/>
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <ImageView
+        android:id="@+id/pic"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="930dp"
+        android:src="@drawable/baseline_upload_"
+        android:layout_marginLeft="310dp" />
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="match_parent"
+        android:id="@+id/medical"
+        android:layout_marginTop="1000dp"
+        android:layout_height="wrap_content"
+        style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+        >
+        <EditText
+            android:layout_width="match_parent"
+            android:textSize="15dp"
+            android:layout_marginTop="1000dp"
+            android:textColor="#0000ff"
+            android:hint="Medical Report"
+            android:layout_marginBottom="10dp"
+            android:layout_height="wrap_content"/>
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <ImageView
+        android:id="@+id/med"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="1030dp"
+        android:src="@drawable/baseline_upload_"
+        android:layout_marginLeft="310dp" />
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="match_parent"
+        android:id="@+id/death"
+        android:layout_marginTop="1100dp"
+        android:layout_height="wrap_content"
+        style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+        >
+        <EditText
+            android:layout_width="match_parent"
+            android:textSize="15dp"
+            android:layout_marginTop="1100dp"
+            android:textColor="#0000ff"
+            android:hint="Death Certificate"
+            android:layout_marginBottom="10dp"
+            android:layout_height="wrap_content"/>
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <ImageView
+        android:id="@+id/dea"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="1130dp"
+        android:src="@drawable/baseline_upload_"
+        android:layout_marginLeft="310dp" />
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="match_parent"
+        android:id="@+id/original"
+        android:layout_marginTop="1200dp"
+        android:layout_height="wrap_content"
+        style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+        >
+        <EditText
+            android:layout_width="match_parent"
+            android:textSize="15dp"
+            android:layout_marginTop="1200dp"
+            android:hint="Original Policy Document"
+            android:textColor="#0000ff"
+            android:layout_marginBottom="10dp"
+            android:layout_height="wrap_content"/>
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <ImageView
+        android:id="@+id/org"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="1230dp"
+        android:src="@drawable/baseline_upload_"
+        android:layout_marginLeft="310dp" />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="23dp"
+        android:layout_marginTop="1300dp"
+        android:text="By submitting this form, I hereby declare that the above information provided are true and complete to the best of my knowledge. I agree that any of the information provided is found to be false or incorrect shall lead to the repudiation of my claim."/>
+
+<Button
+    android:id="@+id/btn"
+    android:layout_marginTop="1550dp"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginLeft="120dp"
+    android:gravity="center"/>
+
+</RelativeLayout>
+</ScrollView>

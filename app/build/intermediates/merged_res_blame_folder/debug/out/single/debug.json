@@ -1,0 +1,214 @@
+[
+    {
+        "merged": "C:\\Users\\SHERRIF\\Desktop\\UniAppRoomDB\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\SHERRIF\\Desktop\\UniAppRoomDB\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\SHERRIF\\Desktop\\UniAppRoomDB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_email.png.flat",
+        "source": "C:\\Users\\SHERRIF\\Desktop\\UniAppRoomDB\\app\\src\\main\\res\\drawable-v24\\email.png"
+    },
+    {
+        "merged": "C:\\Users\\SHERRIF\\Desktop\\UniAppRoomDB\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\SHERRIF\\Desktop\\UniAppRoomDB\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\SHERRIF\\Desktop\\UniAppRoomDB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\SHERRIF\\Desktop\\UniAppRoomDB\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\SHERRIF\\Desktop\\UniAppRoomDB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\SHERRIF\\Desktop\\UniAppRoomDB\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHERRIF\\Desktop\\UniAppRoomDB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_blue.jpg.flat",
+        "source": "C:\\Users\\SHERRIF\\Desktop\\UniAppRoomDB\\app\\src\\main\\res\\drawable-v24\\blue.jpg"
+    },
+    {
+        "merged": "C:\\Users\\SHERRIF\\Desktop\\UniAppRoomDB\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_claim.xml.flat",
+        "source": "C:\\Users\\SHERRIF\\Desktop\\UniAppRoomDB\\app\\src\\main\\res\\layout\\activity_claim.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHERRIF\\Desktop\\UniAppRoomDB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_logo.png.flat",
+        "source": "C:\\Users\\SHERRIF\\Desktop\\UniAppRoomDB\\app\\src\\main\\res\\drawable-v24\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\SHERRIF\\Desktop\\UniAppRoomDB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_insur2.png.flat",
+        "source": "C:\\Users\\SHERRIF\\Desktop\\UniAppRoomDB\\app\\src\\main\\res\\drawable-v24\\insur2.png"
+    },
+    {
+        "merged": "C:\\Users\\SHERRIF\\Desktop\\UniAppRoomDB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_universal.jpg.flat",
+        "source": "C:\\Users\\SHERRIF\\Desktop\\UniAppRoomDB\\app\\src\\main\\res\\drawable-v24\\universal.jpg"
+    },
+    {
+        "merged": "C:\\Users\\SHERRIF\\Desktop\\UniAppRoomDB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\SHERRIF\\Desktop\\UniAppRoomDB\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHERRIF\\Desktop\\UniAppRoomDB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_name.png.flat",
+        "source": "C:\\Users\\SHERRIF\\Desktop\\UniAppRoomDB\\app\\src\\main\\res\\drawable-v24\\name.png"
+    },
+    {
+        "merged": "C:\\Users\\SHERRIF\\Desktop\\UniAppRoomDB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_menub.jpg.flat",
+        "source": "C:\\Users\\SHERRIF\\Desktop\\UniAppRoomDB\\app\\src\\main\\res\\drawable-v24\\menub.jpg"
+    },
+    {
+        "merged": "C:\\Users\\SHERRIF\\Desktop\\UniAppRoomDB\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main3.xml.flat",
+        "source": "C:\\Users\\SHERRIF\\Desktop\\UniAppRoomDB\\app\\src\\main\\res\\layout\\activity_main3.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHERRIF\\Desktop\\UniAppRoomDB\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\SHERRIF\\Desktop\\UniAppRoomDB\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\SHERRIF\\Desktop\\UniAppRoomDB\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\SHERRIF\\Desktop\\UniAppRoomDB\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\SHERRIF\\Desktop\\UniAppRoomDB\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\SHERRIF\\Desktop\\UniAppRoomDB\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\SHERRIF\\Desktop\\UniAppRoomDB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\SHERRIF\\Desktop\\UniAppRoomDB\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\SHERRIF\\Desktop\\UniAppRoomDB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_baseline.png.flat",
+        "source": "C:\\Users\\SHERRIF\\Desktop\\UniAppRoomDB\\app\\src\\main\\res\\drawable-v24\\baseline.png"
+    },
+    {
+        "merged": "C:\\Users\\SHERRIF\\Desktop\\UniAppRoomDB\\app\\build\\intermediates\\res\\merged\\debug\\anim_zoom_in.xml.flat",
+        "source": "C:\\Users\\SHERRIF\\Desktop\\UniAppRoomDB\\app\\src\\main\\res\\anim\\zoom_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHERRIF\\Desktop\\UniAppRoomDB\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\SHERRIF\\Desktop\\UniAppRoomDB\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\SHERRIF\\Desktop\\UniAppRoomDB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_contact.png.flat",
+        "source": "C:\\Users\\SHERRIF\\Desktop\\UniAppRoomDB\\app\\src\\main\\res\\drawable-v24\\contact.png"
+    },
+    {
+        "merged": "C:\\Users\\SHERRIF\\Desktop\\UniAppRoomDB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\SHERRIF\\Desktop\\UniAppRoomDB\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\SHERRIF\\Desktop\\UniAppRoomDB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_univ.png.flat",
+        "source": "C:\\Users\\SHERRIF\\Desktop\\UniAppRoomDB\\app\\src\\main\\res\\drawable-v24\\univ.png"
+    },
+    {
+        "merged": "C:\\Users\\SHERRIF\\Desktop\\UniAppRoomDB\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_update.xml.flat",
+        "source": "C:\\Users\\SHERRIF\\Desktop\\UniAppRoomDB\\app\\src\\main\\res\\layout\\activity_update.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHERRIF\\Desktop\\UniAppRoomDB\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_down.xml.flat",
+        "source": "C:\\Users\\SHERRIF\\Desktop\\UniAppRoomDB\\app\\src\\main\\res\\anim\\slide_down.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHERRIF\\Desktop\\UniAppRoomDB\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\SHERRIF\\Desktop\\UniAppRoomDB\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\SHERRIF\\Desktop\\UniAppRoomDB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_uniok.png.flat",
+        "source": "C:\\Users\\SHERRIF\\Desktop\\UniAppRoomDB\\app\\src\\main\\res\\drawable-v24\\uniok.png"
+    },
+    {
+        "merged": "C:\\Users\\SHERRIF\\Desktop\\UniAppRoomDB\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\SHERRIF\\Desktop\\UniAppRoomDB\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHERRIF\\Desktop\\UniAppRoomDB\\app\\build\\intermediates\\res\\merged\\debug\\layout_recylerview_client.xml.flat",
+        "source": "C:\\Users\\SHERRIF\\Desktop\\UniAppRoomDB\\app\\src\\main\\res\\layout\\recylerview_client.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHERRIF\\Desktop\\UniAppRoomDB\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main2.xml.flat",
+        "source": "C:\\Users\\SHERRIF\\Desktop\\UniAppRoomDB\\app\\src\\main\\res\\layout\\activity_main2.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHERRIF\\Desktop\\UniAppRoomDB\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\SHERRIF\\Desktop\\UniAppRoomDB\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\SHERRIF\\Desktop\\UniAppRoomDB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_call.png.flat",
+        "source": "C:\\Users\\SHERRIF\\Desktop\\UniAppRoomDB\\app\\src\\main\\res\\drawable-v24\\call.png"
+    },
+    {
+        "merged": "C:\\Users\\SHERRIF\\Desktop\\UniAppRoomDB\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\SHERRIF\\Desktop\\UniAppRoomDB\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\SHERRIF\\Desktop\\UniAppRoomDB\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_delete.xml.flat",
+        "source": "C:\\Users\\SHERRIF\\Desktop\\UniAppRoomDB\\app\\src\\main\\res\\layout\\activity_delete.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHERRIF\\Desktop\\UniAppRoomDB\\app\\build\\intermediates\\res\\merged\\debug\\menu_mymenu.xml.flat",
+        "source": "C:\\Users\\SHERRIF\\Desktop\\UniAppRoomDB\\app\\src\\main\\res\\menu\\mymenu.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHERRIF\\Desktop\\UniAppRoomDB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\SHERRIF\\Desktop\\UniAppRoomDB\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\SHERRIF\\Desktop\\UniAppRoomDB\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main5.xml.flat",
+        "source": "C:\\Users\\SHERRIF\\Desktop\\UniAppRoomDB\\app\\src\\main\\res\\layout\\activity_main5.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHERRIF\\Desktop\\UniAppRoomDB\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_about_us.xml.flat",
+        "source": "C:\\Users\\SHERRIF\\Desktop\\UniAppRoomDB\\app\\src\\main\\res\\layout\\activity_about_us.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHERRIF\\Desktop\\UniAppRoomDB\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\SHERRIF\\Desktop\\UniAppRoomDB\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\SHERRIF\\Desktop\\UniAppRoomDB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_baseline_room.png.flat",
+        "source": "C:\\Users\\SHERRIF\\Desktop\\UniAppRoomDB\\app\\src\\main\\res\\drawable-v24\\baseline_room.png"
+    },
+    {
+        "merged": "C:\\Users\\SHERRIF\\Desktop\\UniAppRoomDB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_baseline_upload_.png.flat",
+        "source": "C:\\Users\\SHERRIF\\Desktop\\UniAppRoomDB\\app\\src\\main\\res\\drawable-v24\\baseline_upload_.png"
+    },
+    {
+        "merged": "C:\\Users\\SHERRIF\\Desktop\\UniAppRoomDB\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu2.xml.flat",
+        "source": "C:\\Users\\SHERRIF\\Desktop\\UniAppRoomDB\\app\\src\\main\\res\\menu\\menu2.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHERRIF\\Desktop\\UniAppRoomDB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_unew.png.flat",
+        "source": "C:\\Users\\SHERRIF\\Desktop\\UniAppRoomDB\\app\\src\\main\\res\\drawable-v24\\unew.png"
+    },
+    {
+        "merged": "C:\\Users\\SHERRIF\\Desktop\\UniAppRoomDB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_contactnew.png.flat",
+        "source": "C:\\Users\\SHERRIF\\Desktop\\UniAppRoomDB\\app\\src\\main\\res\\drawable-v24\\contactnew.png"
+    },
+    {
+        "merged": "C:\\Users\\SHERRIF\\Desktop\\UniAppRoomDB\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\SHERRIF\\Desktop\\UniAppRoomDB\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHERRIF\\Desktop\\UniAppRoomDB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\SHERRIF\\Desktop\\UniAppRoomDB\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\SHERRIF\\Desktop\\UniAppRoomDB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_password.png.flat",
+        "source": "C:\\Users\\SHERRIF\\Desktop\\UniAppRoomDB\\app\\src\\main\\res\\drawable-v24\\password.png"
+    },
+    {
+        "merged": "C:\\Users\\SHERRIF\\Desktop\\UniAppRoomDB\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\SHERRIF\\Desktop\\UniAppRoomDB\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHERRIF\\Desktop\\UniAppRoomDB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\SHERRIF\\Desktop\\UniAppRoomDB\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\SHERRIF\\Desktop\\UniAppRoomDB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_name01.png.flat",
+        "source": "C:\\Users\\SHERRIF\\Desktop\\UniAppRoomDB\\app\\src\\main\\res\\drawable-v24\\name01.png"
+    },
+    {
+        "merged": "C:\\Users\\SHERRIF\\Desktop\\UniAppRoomDB\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main4.xml.flat",
+        "source": "C:\\Users\\SHERRIF\\Desktop\\UniAppRoomDB\\app\\src\\main\\res\\layout\\activity_main4.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHERRIF\\Desktop\\UniAppRoomDB\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_about_policy.xml.flat",
+        "source": "C:\\Users\\SHERRIF\\Desktop\\UniAppRoomDB\\app\\src\\main\\res\\layout\\activity_about_policy.xml"
+    }
+]

@@ -1,0 +1,88 @@
+com/simplest/uniapproomdb/BuildConfig.java
+ com.simplest.uniapproomdb.BuildConfig
+com/simplest/uniapproomdb/ClientAdapter.java
+ com.simplest.uniapproomdb.ClientAdapter
+ com.simplest.uniapproomdb.ClientAdapter$1
+ com.simplest.uniapproomdb.ClientAdapter$1DeleteTask
+ com.simplest.uniapproomdb.ClientAdapter$2
+ com.simplest.uniapproomdb.ClientAdapter$ClientViewHolder
+ com.simplest.uniapproomdb.ClientAdapter$ClientViewHolder$1
+com/simplest/uniapproomdb/Delete.java
+ com.simplest.uniapproomdb.Delete
+ com.simplest.uniapproomdb.Delete$1
+ com.simplest.uniapproomdb.Delete$1$1
+ com.simplest.uniapproomdb.Delete$1$2
+ com.simplest.uniapproomdb.Delete$1DeleteTask
+com/simplest/uniapproomdb/AboutUs.java
+ com.simplest.uniapproomdb.AboutUs
+com/simplest/uniapproomdb/DatabaseClient.java
+ com.simplest.uniapproomdb.DatabaseClient
+com/simplest/uniapproomdb/MainActivity2.java
+ com.simplest.uniapproomdb.MainActivity2
+ com.simplest.uniapproomdb.MainActivity2$1
+ com.simplest.uniapproomdb.MainActivity2$10
+ com.simplest.uniapproomdb.MainActivity2$11
+ com.simplest.uniapproomdb.MainActivity2$12
+ com.simplest.uniapproomdb.MainActivity2$1SaveTask
+ com.simplest.uniapproomdb.MainActivity2$2
+ com.simplest.uniapproomdb.MainActivity2$2$1
+ com.simplest.uniapproomdb.MainActivity2$3
+ com.simplest.uniapproomdb.MainActivity2$4
+ com.simplest.uniapproomdb.MainActivity2$5
+ com.simplest.uniapproomdb.MainActivity2$6
+ com.simplest.uniapproomdb.MainActivity2$7
+ com.simplest.uniapproomdb.MainActivity2$8
+ com.simplest.uniapproomdb.MainActivity2$9
+ com.simplest.uniapproomdb.MainActivity2$GeocoderHandler
+com/simplest/uniapproomdb/AboutPolicy.java
+ com.simplest.uniapproomdb.AboutPolicy
+com/simplest/uniapproomdb/AppDataBase.java
+ com.simplest.uniapproomdb.AppDataBase
+com/simplest/uniapproomdb/DataAccessObject.java
+ com.simplest.uniapproomdb.DataAccessObject
+com/simplest/uniapproomdb/ClaimActivity.java
+ com.simplest.uniapproomdb.ClaimActivity
+ com.simplest.uniapproomdb.ClaimActivity$1
+ com.simplest.uniapproomdb.ClaimActivity$1SaveTask
+ com.simplest.uniapproomdb.ClaimActivity$2
+ com.simplest.uniapproomdb.ClaimActivity$3
+ com.simplest.uniapproomdb.ClaimActivity$4
+ com.simplest.uniapproomdb.ClaimActivity$5
+ com.simplest.uniapproomdb.ClaimActivity$6
+ com.simplest.uniapproomdb.ClaimActivity$7
+com/simplest/uniapproomdb/LocationAddress.java
+ com.simplest.uniapproomdb.LocationAddress
+ com.simplest.uniapproomdb.LocationAddress$1
+com/simplest/uniapproomdb/MainActivity5.java
+ com.simplest.uniapproomdb.MainActivity5
+ com.simplest.uniapproomdb.MainActivity5$1GetTasks
+com/simplest/uniapproomdb/MainActivity3.java
+ com.simplest.uniapproomdb.MainActivity3
+ com.simplest.uniapproomdb.MainActivity3$1
+ com.simplest.uniapproomdb.MainActivity3$2
+ com.simplest.uniapproomdb.MainActivity3$3
+com/simplest/uniapproomdb/UpdateActivity.java
+ com.simplest.uniapproomdb.UpdateActivity
+ com.simplest.uniapproomdb.UpdateActivity$1
+ com.simplest.uniapproomdb.UpdateActivity$10
+ com.simplest.uniapproomdb.UpdateActivity$1UpdateTask
+ com.simplest.uniapproomdb.UpdateActivity$2
+ com.simplest.uniapproomdb.UpdateActivity$2$1
+ com.simplest.uniapproomdb.UpdateActivity$3
+ com.simplest.uniapproomdb.UpdateActivity$4
+ com.simplest.uniapproomdb.UpdateActivity$5
+ com.simplest.uniapproomdb.UpdateActivity$6
+ com.simplest.uniapproomdb.UpdateActivity$7
+ com.simplest.uniapproomdb.UpdateActivity$8
+ com.simplest.uniapproomdb.UpdateActivity$9
+ com.simplest.uniapproomdb.UpdateActivity$GeocoderHandler
+com/simplest/uniapproomdb/MainActivity4.java
+ com.simplest.uniapproomdb.MainActivity4
+ com.simplest.uniapproomdb.MainActivity4$1
+com/simplest/uniapproomdb/MainActivity.java
+ com.simplest.uniapproomdb.MainActivity
+ com.simplest.uniapproomdb.MainActivity$1
+com/simplest/uniapproomdb/Client.java
+ com.simplest.uniapproomdb.Client
+com/simplest/uniapproomdb/LocationService.java
+ com.simplest.uniapproomdb.LocationService

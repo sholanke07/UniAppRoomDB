@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id = "@+id/view"
+        android:title = "View Policy "/>
+    <item
+        android:id = "@+id/aboutus"
+        android:title = "About Us"/>
+    <item
+        android:id = "@+id/aboutpolicy"
+        android:title = "About Policy"/>
+
+    </menu>
